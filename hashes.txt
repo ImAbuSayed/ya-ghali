@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Ghali
+
+This log tracks the cryptographic history and versioning for the song **Ya Ghali** (ya-ghali).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:04:08.454297 | `v1` | `1e27b343222a48024daa5c837d39064e99595c43b906123fb15d36f681945dd7` | `51e44a36886d5e0d5dddb0110f639b7cbb0875396b99f08e90f3dc05e3f89a80` | `2026-05-09_ya-ghali-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
